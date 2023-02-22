@@ -8,7 +8,7 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	"github.com/httprunner/funplugin/shared"
+	"github.com/lottetian/funplugin/shared"
 )
 
 // goPlugin implements golang official plugin

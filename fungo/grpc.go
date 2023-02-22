@@ -8,9 +8,9 @@ import (
 	"github.com/rs/zerolog/log"
 	"google.golang.org/grpc"
 
-	"github.com/httprunner/funplugin/fungo/protoGen"
-	"github.com/httprunner/funplugin/shared"
 	jsoniter "github.com/json-iterator/go"
+	"github.com/lottetian/funplugin/fungo/protoGen"
+	"github.com/lottetian/funplugin/shared"
 )
 
 // replace with third-party json library to improve performance

@@ -11,8 +11,8 @@ import (
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog/log"
 
-	"github.com/httprunner/funplugin/fungo"
-	"github.com/httprunner/funplugin/shared"
+	"github.com/lottetian/funplugin/fungo"
+	"github.com/lottetian/funplugin/shared"
 )
 
 type rpcType string

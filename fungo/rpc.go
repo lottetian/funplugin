@@ -7,7 +7,7 @@ import (
 	"github.com/hashicorp/go-plugin"
 	"github.com/rs/zerolog/log"
 
-	"github.com/httprunner/funplugin/shared"
+	"github.com/lottetian/funplugin/shared"
 )
 
 func init() {

@@ -1,9 +1,9 @@
 # FunPlugin
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/httprunner/funplugin.svg)](https://pkg.go.dev/github.com/httprunner/funplugin)
-[![Github Actions](https://github.com/httprunner/funplugin/actions/workflows/unittest.yml/badge.svg)](https://github.com/httprunner/funplugin/actions)
+[![Go Reference](https://pkg.go.dev/badge/github.com/lottetian/funplugin.svg)](https://pkg.go.dev/github.com/lottetian/funplugin)
+[![Github Actions](https://github.com/lottetian/funplugin/actions/workflows/unittest.yml/badge.svg)](https://github.com/lottetian/funplugin/actions)
 [![codecov](https://codecov.io/gh/httprunner/funplugin/branch/main/graph/badge.svg?token=DW3K2R1PNC)](https://codecov.io/gh/httprunner/funplugin)
-[![Go Report Card](https://goreportcard.com/badge/github.com/httprunner/funplugin)](https://goreportcard.com/report/github.com/httprunner/funplugin)
+[![Go Report Card](https://goreportcard.com/badge/github.com/lottetian/funplugin)](https://goreportcard.com/report/github.com/lottetian/funplugin)
 
 ## What is FunPlugin?
 
